@@ -1,6 +1,6 @@
 # Python Aussie Dunny Data API
 
-A simply Python-based REST API that is hosted using [bottle](https://bottlepy.org/docs/dev/).
+A simple Python-based REST API that is hosted using [bottle](https://bottlepy.org/docs/dev/).
 
 This code is used as part of a demonstration on how you can move from running code on Virtual Machines or on-premises, to containers and finally [Azure Serverless](https://github.com/sjwaight/ServerlessDownunderDunnies).
 
